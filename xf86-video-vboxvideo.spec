@@ -4,7 +4,7 @@
 #
 Name     : xf86-video-vboxvideo
 Version  : 1.0.0
-Release  : 11
+Release  : 12
 URL      : https://cgit.freedesktop.org/xorg/driver/xf86-video-vbox/snapshot/xf86-video-vboxvideo-1.0.0.tar.gz
 Source0  : https://cgit.freedesktop.org/xorg/driver/xf86-video-vbox/snapshot/xf86-video-vboxvideo-1.0.0.tar.gz
 Summary  : No detailed summary available
