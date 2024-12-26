@@ -9,7 +9,7 @@
 #
 Name     : xf86-video-vboxvideo
 Version  : 1.0.1
-Release  : 963
+Release  : 964
 URL      : https://www.x.org/releases/individual/driver/xf86-video-vboxvideo-1.0.1.tar.gz
 Source0  : https://www.x.org/releases/individual/driver/xf86-video-vboxvideo-1.0.1.tar.gz
 Source1  : https://www.x.org/releases/individual/driver/xf86-video-vboxvideo-1.0.1.tar.gz.sig
